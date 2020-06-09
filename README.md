@@ -36,7 +36,56 @@ This project was developed with the following technologies:
 
 - [TypeScript](https://www.typescriptlang.org/)
 
+## Install api
+
+```bash
+# Clone this repository
+$ git clone https://github.com/lucasferl1ndo/ecoleta
+
+# Go into the repository
+$ cd /server
+
+# Install dependencies
+$ yarn install
+
+# Run Migrates
+$ yarn knex:migrate
+
+# Run Seeds
+$ yarn knex:seed
+
+# Start server
+$ yarn dev
+
+# running on port 3333```
+
+## Install frontend
+
+```bash
+# Clone this repository
+$ git clone https://github.com/lucasferl1ndo/ecoleta
+
+# Go into the repository
+$ cd /ecoleta
+
+# Install dependencies
+$ yarn install
+
+# Run Migrates
+$ yarn knex:migrate
+
+# Run Seeds
+$ yarn knex:seed
+
+# Start server
+$ yarn dev
+
+# running on port 3333```
+
+
+
+
 License
 ----
 
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)
