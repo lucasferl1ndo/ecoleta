@@ -56,8 +56,10 @@ $ yarn dev
 ```bash
 # Clone this repository
 $ git clone https://github.com/lucasferl1ndo/ecoleta
+
 # Go into the repository
 $ cd /web
+
 # Install dependencies
 $ yarn install
 
@@ -77,8 +79,10 @@ $ yarn start
 ```bash
 # Clone this repository
 $ git clone https://github.com/lucasferl1ndo/ecoleta
+
 # Go into the repository
 $ cd /mobile
+
 # Install dependencies
 $ yarn install
 
