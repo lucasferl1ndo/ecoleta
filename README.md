@@ -35,3 +35,8 @@ This project was developed with the following technologies:
 - [React Native](https://reactnative.dev/)
 
 - [TypeScript](https://www.typescriptlang.org/)
+
+License
+----
+
+MIT
